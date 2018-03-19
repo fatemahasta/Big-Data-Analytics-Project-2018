@@ -1,0 +1,4 @@
+#Tue Feb 27 22:25:26 CST 2018
+base.0=C\:\\Users\\manir\\AndroidStudioProjects\\Clarifai_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
