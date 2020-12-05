@@ -21,3 +21,10 @@ o An emotion is given as an output along with
 music, movie suggestions.
 o A graphical chart that gives the user an idea of
 how to manage his/her mood.
+
+# Evaluation and Validation:
+* Clarifai API - Accuracy: 86.2%
+* Shallow Learning (Spark): Accuracy: 63.6%
+* Deep Learning (CNN): Accuracy: 72.4%
+* Deep Learning (Inception): Accuracy: 92.7%
+* Deep Learning (Softmax): Accuracy: 69.3%
